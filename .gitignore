@@ -1,0 +1,26 @@
+# ide settings
+.idea/
+
+# netbeans project files
+nbproject
+
+# zend studio for eclipse project files
+.buildpath
+.project
+.settings
+
+# windows thumbnail cache
+Thumbs.db
+
+# Mac DS_Store Files
+.DS_Store
+
+# Temporal dev files
+node_modules/
+
+# App config
+.env
+.env-local
+
+# App related
+robots.txt
